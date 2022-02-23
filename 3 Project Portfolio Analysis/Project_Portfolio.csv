@@ -1,0 +1,27 @@
+﻿Project,Business Unit,Expected Duration (years),Actual Duration (years),Budget Amount,Actual Amount,Team Size,Result
+Project A,IT,1,1.2,100000,125000,10,Successful
+Project B,IT,1.5,0.5,200000,185000,12,Not Successful
+Project C,SCM,2,3,200000,285000,2,Successful
+Project D,SCM,1.5,1,100000,115000,3,Successful
+Project E,SCM,1,0.75,2000000,2030000,20,Not Successful
+Project F,SCM,0.5,0.6,50000,60000,12,Not Successful
+Project G,Finance,0.5,0.7,30000,100000,3,Not Successful
+Project H,Finance,0.75,1,10000,6000,5,Successful
+Project I,Finance,1,1.5,20000,10000,2,Successful
+Project J,Operations,2,1.5,40000,45000,9,Successful
+Project K,Operations,1,0.9,34000,36000,5,Successful
+Project L,Operations,1.5,1.6,200000,185000,23,Not Successful
+Project M,IT,0.25,4,50000,100000,30,Not Successful
+Project N,IT,1,1.2,100000,125000,10,Not Successful
+Project O,IT,1.5,0.5,200000,185000,12,Successful
+Project P,Finance,2,3,200000,285000,2,Successful
+Project Q,Operations,1.5,1,100000,115000,3,Successful
+Project R,Operations,1,0.75,2000000,2030000,20,Successful
+Project S,Operations,0.5,0.6,50000,60000,12,Successful
+Project GA,IT,0.5,0.7,30000,100000,3,Not Successful
+Project HE,IT,0.75,1,10000,6000,5,Not Successful
+Project IL,SCM,1,1.5,20000,10000,2,Not Successful
+Project JQ,SCM,2,1.5,40000,45000,9,Successful
+Project KE,SCM,1,0.9,34000,36000,5,Not Successful
+Project LA,SCM,1.5,1.6,200000,185000,23,Successful
+Project MZ,IT,0.25,4,50000,100000,30,Successful
